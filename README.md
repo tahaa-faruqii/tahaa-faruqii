@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi there!<br><br>- 🔭 I’m currently working as  **React Native developer**<br>- 👯 I’m looking to collaborate on **mobile app development**<br>- 🤝 I’m looking for help with **advanced React Native performance**<br>- 🌱 I’m currently learning **TypeScript & Expo**<br>- 💬 Ask me about **React Native, JavaScript**<br>- ⚡ Fun fact: **I love building mobile apps**
+## 👋 Hi there!<br><br>- 🔭 I’m currently working as  **React Native developer**<br>- 👯 I’m looking to collaborate on **mobile app development**<br>- 🤝 I’m looking for help with **advanced React Native performance**<br>- 🌱 I’m currently learning **Backend **<br>- 💬 Ask me about **React Native, JavaScript**<br>- ⚡ Fun fact: **I love building mobile apps**
 
 
 ## 🌐 Socials:
