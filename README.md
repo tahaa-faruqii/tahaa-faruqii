@@ -1,22 +1,45 @@
-# 💫 About Me:
-## 👋 Hi there!<br><br>- 🔭 I’m currently working as  **React Native developer**<br>- 👯 I’m looking to collaborate on **mobile app development**<br>- 🤝 I’m looking for help with **advanced React Native performance**<br>- 🌱 I’m currently learning **Backend **<br>- 💬 Ask me about **React Native, JavaScript**<br>- ⚡ Fun fact: **I love building mobile apps**
+# Abdul Ahad Farooqi – React Native Developer
 
+## 👋 About Me
+I am a **React Native Developer** specializing in **cross-platform mobile app development** using **JavaScript, TypeScript, and React Native**.  
+I focus on building **high-performance, scalable, and user-friendly mobile applications**.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abdulahad.faruqi.7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdul Ahad Farooqi)
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tahaa-faruqii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tahaa-faruqii&theme=dark&hide_border=false)<br/>
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🔭 Currently working as a **React Native Developer**
+- 👯 Open to collaborate on **mobile app development projects**
+- 🤝 Seeking guidance on **advanced React Native performance optimization**
+- 🌱 Currently learning **Backend Development**
+- 💬 Ask me about **React Native, JavaScript, TypeScript**
+- ⚡ Fun fact: I love building **real-world mobile apps**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tahaa-faruqii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/abdul-ahad-farooqi
+- 📘 Facebook: https://www.facebook.com/abdulahad.faruqi.7/
+
+---
+
+## 💻 Tech Stack & Skills
+**Mobile Development:**  
+React Native, React, JavaScript, TypeScript  
+
+**State Management & APIs:**  
+Redux, React Query, React Hook Form  
+
+**Tools & Workflow:**  
+Git, GitHub, NPM, Yarn, Figma  
+
+---
+
+## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahaa-faruqii&theme=dark)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=tahaa-faruqii&theme=dark)
+
+---
+
+## ✍️ Developer Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+**Keywords:** React Native Developer, Mobile App Developer, JavaScript Developer, Cross-Platform Apps, React Developer
