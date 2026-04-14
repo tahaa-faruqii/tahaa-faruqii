@@ -1,7 +1,9 @@
 # Abdul Ahad Farooqi(tahaa faruqii) – React Native Developer
 
 # 💫 About Me:
-I am a **React Native Developer** specializing in **cross-platform mobile app development** using **JavaScript, TypeScript, and React Native**.  <br>I focus on building **high-performance, scalable, and user-friendly mobile applications**.<br># 💫 About Me:<br>🔭 Currently working as a **React Native Developer**<br>- 👯 Open to collaborate on **mobile app development projects**<br>- 🤝 Seeking guidance on **advanced React Native performance optimization**<br>- 🌱 Currently learning **Backend Development**<br>- 💬 Ask me about **React Native, JavaScript, TypeScript**<br>- ⚡ Fun fact: I love building **real-world mobile apps**
+I am a **React Native Developer** specializing in **cross-platform mobile app development** using **JavaScript, TypeScript, and React Native**. 
+<br>I focus on building **high-performance, scalable, and user-friendly mobile applications**.<br>
+<br>🔭 Currently working as a **React Native Developer**<br>- 👯 Open to collaborate on **mobile app development projects**<br>- 🤝 Seeking guidance on **advanced React Native performance optimization**<br>- 🌱 Currently learning **Backend Development**<br>- 💬 Ask me about **React Native, JavaScript, TypeScript**<br>- ⚡ Fun fact: I love building **real-world mobile apps**
 
 
 ## 🌐 Socials:
